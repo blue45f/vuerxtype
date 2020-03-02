@@ -1,3 +1,5 @@
+VUE + RXJS + TYPESCRIPT 기반의 웹 프레임워크로서 RXJS를 근간으로 하는 개발 패턴 정의
+
 # vuerxtype
 
 ## Project setup
