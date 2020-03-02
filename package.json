@@ -1,7 +1,7 @@
 {
-  "name": "vuerx",
-  "version": "0.1.0",
-  "private": true,
+  "name": "vuerxtype",
+  "version": "0.2.0",
+  "main": "src",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",

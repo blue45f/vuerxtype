@@ -1,4 +1,4 @@
-# vuerx
+# vuerxtype
 
 ## Project setup
 ```
