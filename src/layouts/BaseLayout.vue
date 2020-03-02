@@ -6,8 +6,6 @@
 
 <script src="./BaseLayout.ts"></script>
 
-<style src="../assets/common/css/common.css"></style>
-
 <style>
 .fade-enter-active,
 .fade-leave-active {
